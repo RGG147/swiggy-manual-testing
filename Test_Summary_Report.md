@@ -18,8 +18,8 @@ To validate the functional correctness and user experience quality of Swiggy's c
 | Parameter | Details |
 |---|---|
 | Device | Android (OnePlus/Samsung mid-range) |
-| Browser | Google Chrome (latest) |
-| Network | 4G mobile data + WiFi |
+| Browser | Google Chrome |
+| Network | 5G mobile data + WiFi |
 | App Version | Swiggy Android v4.x |
 | OS | Android 12 |
 
